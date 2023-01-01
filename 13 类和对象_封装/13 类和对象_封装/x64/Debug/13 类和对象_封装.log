@@ -1,0 +1,6 @@
+﻿  07 设计案例_点和圆关系.cpp
+  circle.cpp
+  point.cpp
+D:\Documents\C++code\13 类和对象_封装\13 类和对象_封装\point.cpp(1,1): warning C4828: 文件包含在偏移 0x115 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  正在生成代码...
+  13 类和对象_封装.vcxproj -> D:\Documents\C++code\13 类和对象_封装\x64\Debug\13 类和对象_封装.exe
